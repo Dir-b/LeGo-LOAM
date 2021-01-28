@@ -1,0 +1,30 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/nio/nio_ws/lego_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "files.associations": {
+        "condition_variable": "cpp",
+        "*.ipp": "cpp",
+        "bitset": "cpp",
+        "random": "cpp",
+        "future": "cpp",
+        "memory": "cpp",
+        "optional": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "hash_map": "cpp",
+        "hash_set": "cpp",
+        "system_error": "cpp",
+        "sstream": "cpp",
+        "array": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "chrono": "cpp"
+    }
+}
